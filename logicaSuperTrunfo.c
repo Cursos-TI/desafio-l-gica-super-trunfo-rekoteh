@@ -95,12 +95,12 @@ int main() {
 
     }
 
-    printf("---Menu---"
-            "Área- A;"
-            "Pib- B;"
-            "Densidade Populacional- D;"
-            "População- P;"
-            "Pontos Turísticos- T."
+    printf("---Menu---\n"
+            "Área- A;\n"
+            "Pib- B;\n"
+            "Densidade Populacional- D\n;"
+            "População- P;\n"
+            "Pontos Turísticos- T.\n"
     );
     printf("Escolha qual atributo deseja ultilizar para a comparação:(A,B,D,P,T) ");
     scanf(" %c", &opcao);
